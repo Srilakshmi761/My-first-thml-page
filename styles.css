@@ -1,0 +1,12 @@
+   
+    .navbar{background-color: #487aab; /* Set your desired background color */
+    color: white; /* Optional: Set text color */
+  }
+  
+  .navbar a {
+    color: white; /* Set link color */
+  }
+  
+  .navbar a:hover {
+    color: #d1e7ff; /* Optional: Set hover color for links */
+  }
